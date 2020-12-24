@@ -98,7 +98,7 @@ User details are extracted into this table.
 
 |user_id|first_name|last_name|gender|level|
 |-------|----------|---------|------|-----|
-|10||Sylvie|Cruz|F|free|
+|10|Sylvie|Cruz|F|free|
 
 *Table: songplays*
 
